@@ -18,7 +18,7 @@ export default function Web3sdkioGuideFooter() {
         role="button"
         onClick={() =>
           window.open(
-            "https://github.com/web3sdkio-example/discord-role-granter",
+            "https://github.com/web3sdkio-template/discord-role-granter",
             "_blank"
           )
         }
@@ -39,7 +39,7 @@ export default function Web3sdkioGuideFooter() {
           style={{ cursor: "pointer" }}
           onClick={() =>
             window.open(
-              "https://github.com/web3sdkio-example/discord-role-granter",
+              "https://github.com/web3sdkio-template/discord-role-granter",
               "_blank"
             )
           }

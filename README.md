@@ -18,7 +18,7 @@ in a Discord server.
 
 ## Using This Repo
 
-To create a clone of this repository, you can use the [web3sdkio CLI](https://portal.web3sdk.io/web3sdkio-cli)
+To create a clone of this repository, you can use the [web3sdkio CLI](https://docs.web3sdk.io/web3sdkio-cli)
 
 ```bash
 npx web3sdkio create --template discord-role-granter
@@ -274,4 +274,4 @@ if (balance.toNumber() > 0) {
 
 ## Join our Discord!
 
-For any questions, suggestions, join our discord at [https://discord.gg/web3sdkio](https://discord.gg/web3sdkio).
+For any questions, suggestions, join our discord at [https://discord.gg/n33UhsfUKB](https://discord.gg/n33UhsfUKB).
